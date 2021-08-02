@@ -1,1 +1,1 @@
-![MERN] (./img/MERN2.png)
+![MERN](./img/MERN2.png)
