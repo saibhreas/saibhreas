@@ -6,6 +6,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/siobhanknuttel/" target="_blank"><img src="./img/linked.png" alt="linked in icon" width="30" height="30" /></a>
   </a><img src="./img/qr.png" alt="Qr Code for Social Media" width="30" height="30" />
+  
   </a>&nbsp;&nbsp;
 </p>
 
@@ -13,3 +14,11 @@
 
 
 
+
+
+
+
+
+👋 
+💕
+👋🏻
