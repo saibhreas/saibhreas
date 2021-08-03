@@ -22,7 +22,11 @@ Dynamic sites that pop with REACT.
 
 My Sql, NoSql ... no problem.  Then there's GraphQL to take your data front to back, quickly with queries that make sense to the client.
 
-🎪 Where the magic happens: <img src='./img/VSCode.png'> <img src='./img/Compass.png'>  <img src='./img/workbench.png'>   <img src='./img/insomnia.png'>
+🎪 Where the magic happens: 
+<p align='center'>
+  <img src='./img/VSCode.png'> <img src='./img/Compass.png'>  <img src='./img/workbench.png'>   <img src='./img/insomnia.png'>   <img src='./img/tortoiseGit2.png'>  <img src='./img/herokuIconClearEdge.png.png'> 
+</p>
+
 
 Insomnia or Workbech, Compass, Robo-t or Atlas on line, familiar tools integrated with VS Code editor to insure development takes place in the right environment for successful project completion.
 
