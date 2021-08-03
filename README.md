@@ -22,3 +22,4 @@
 👋 
 💕
 👋🏻
+commits are not covering the inline style for the header
