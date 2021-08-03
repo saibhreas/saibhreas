@@ -1,4 +1,6 @@
-![MERN](./img/MERN2.png)
+<p align='center'>
+  <img src ='./img/MERN2.png' style = 'border-radius: 0 20% '/>
+</p>
 
 <h2 align='center'>Saibhreas<h2>
 <h3 align='center'>Full Stack  Development Services<h3>
