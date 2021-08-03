@@ -24,7 +24,11 @@ My Sql, NoSql ... no problem.  Then there's GraphQL to take your data front to b
 
 🎪 Where the magic happens: <img src='./img/VSCode.png'> <img src='./img/Compass.png'>  <img src='./img/workbench.png'>   <img src='./img/insomnia.png'>
 
-Insomnia or Workbech, Compass, Robo-t or Atlas on line, familiar tools integrated with VS Code editor to insure development takes place in the right environment for successful project completion
-👋 
+Insomnia or Workbech, Compass, Robo-t or Atlas on line, familiar tools integrated with VS Code editor to insure development takes place in the right environment for successful project completion.
+
+<p><img src='./img/agile4.png' height=100 style = 'border-radius: 0 20% ' />  All Sites, apps and modules are created using the AGILE model.  From the start they are built with the idea that they will grow and be adapted to meet the changing needs</p>
+
+
+<!--👋 
 💕
-👋🏻
+👋🏻-->
