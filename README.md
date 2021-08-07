@@ -24,7 +24,7 @@ My Sql, NoSql ... no problem.  Then there's GraphQL to take your data front to b
 
 🎪 Where the magic happens: 
 <p align='center'>
-  <img src='./img/VSCode.png'> <img src='./img/Compass.png'>  <img src='./img/workbench.png'>   <img src='./img/insomnia.png'>   <img src='./img/tortoiseGit2.png'>  <img src='./img/herokuIconClearEdge.png'>   <img src='./img/ubuntuIcon.png'>  <img src='./img/SolarPuTTY.png'>
+  <img src='./img/VSCode.png'> <img src='./img/Compass.png'>  <img src='./img/workbench.png'>   <img src='./img/insomnia.png'>   <img src='./img/tortoiseGit2.png'>  <img src='./img/herokuIconClearEdge.png'>   <img src='./img/ubuntuIcon2.png'>  <img src='./img/SolarPuTTY.png'>
 </p>
 
 
