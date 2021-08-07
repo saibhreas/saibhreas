@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src ='./img/MERN3.svg' style = 'border-radius: 0 20% '/>
+  <img src ='./img/MERN2.png' style = 'border-radius: 0 20% '/>
 </p>
 
 <h2 align='center'>Saibhreas<h2>
