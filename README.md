@@ -13,7 +13,7 @@
 
 
 ✨ Front End:<img src= "./img/js_html_css.png" alt = "icons for HTML, CSS, JS" height = "50"/>
-<img src= "./img/React-lite.png" alt = "icons for HTML, CSS, JS" height = "45"/>
+<img src= "./img/reactSmalLogo.png" alt = "icons for HTML, CSS, JS" height = "45"/>
 
 Web development or site remodeling  using HTML5, CSS3 and JavaScript.  
 Dynamic sites that pop with REACT.
