@@ -18,12 +18,21 @@
 ✨ Front End:<img src= "./img/js_html_css.png" alt = "icons for HTML, CSS, JS" height = "50"/>
 <img src= "./img/reactSmalLogo.png" alt = "icons for HTML, CSS, JS" height = "45"/>
 
-Web development or site remodeling  using HTML5, CSS3 and JavaScript.  
-Dynamic sites that pop with REACT.
+<p align='center'>
+  Web development or site remodeling  using HTML5, CSS3 and JavaScript. 
+  <br>
+  Dynamic sites that pop with REACT.
+  <br>
+</p>
 
 👨‍💻 Back End:  <img src="./img/msql.png" height= 50>  <img src="./img/mongoLite.png" height= 50 >  <img src="./img/icons8-graphql-48.png">
 
-My Sql, NoSql ... no problem.  Then there's GraphQL to take your data front to back, quickly with queries that make sense to the client.
+<p align='center'>
+  MySql, NoSql ... no problem.  
+  <br>
+  Then there's GraphQL to take your data front to back, quickly with queries that make sense to the client.
+  <br>
+
 
 🎪 Where the magic happens: 
 <p align='center'>
