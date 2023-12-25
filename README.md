@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
   </a>
       <a href='https://www.upwork.com/freelancers/saibhreas'> 
-    <img src='https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white' witth="50" height="25"> 
+    <img src='https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white' witth="55" height="28"> 
   </a>
 </p>
 
