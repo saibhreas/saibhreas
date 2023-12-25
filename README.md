@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/siobhanknuttel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
   </a>
+      <a href='https://www.upwork.com/freelancers/saibhreas'> 
+    <img src='https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white' witth="45" height="20"> 
+  </a>
 </p>
 
 ✨ Front End:<img src= "./img/js_html_css.png" alt = "icons for HTML, CSS, JS" height = "50"/>
