@@ -1,18 +1,26 @@
-<p align='center'>
-  <img src ='./img/MERN2.png' style = 'border-radius: 0 20% '/>
-</p>
+
 
 <h2 align='center'>Saibhreas<h2>
 <h3 align='center'>Full Stack  Development Services<h3>
 
 <p align='center'>
   <a href="https://github.com/saibhreas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"> </a>   
+  <a href="https://www.linkedin.com/in/siobhanknuttel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"> 
+  </a>
+</p>
+<p align='center'>
+  <a href="https://github.com/saibhreas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+  </a>  
+  <a href='https://www.linkedin.com/in/siobhanknuttel'>
+      <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'>
+  </a>
+    <a href='https://www.upwork.com/freelancers/saibhreas'> 
+    <img src='https://img.shields.io/badge/UpWork-6FDA44?style=flat&logo=Upwork&logoColor=white' witth="45" height="20"> 
   </a>
   
-  <a href="https://www.linkedin.com/in/siobhanknuttel">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
-  </a>
 </p>
 
 ✨ Front End:<img src= "./img/js_html_css.png" alt = "icons for HTML, CSS, JS" height = "50"/>
